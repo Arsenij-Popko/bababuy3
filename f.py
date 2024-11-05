@@ -1,6 +1,5 @@
 import telebot
 from telebot import types
-from telebot.apihelper import send_message
 
 bot = telebot.TeleBot('7817077672:AAF4SWmyD0VpKuZy9GEnC6-0vTwW-x7A7Kg')
 
